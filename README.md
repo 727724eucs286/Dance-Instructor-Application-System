@@ -1,2 +1,2 @@
 # Dance-Instructor-Application-System
-To Create a dance instructor Application System with organised data 
+Dance Instructor Application System is a platform designed to connect students with qualified dance instructors, allowing efficient management of classes, schedules, registrations, and instructor profiles.
